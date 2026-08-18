@@ -45,7 +45,7 @@ src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=2
        src="https://github-stats-extended.vercel.app/api?username=chairass&show_icons=true&theme=monokai&include_all_commits=true&hide_border=true&custom_title=Estatísticas"/>
    
   <img width="37%"
-       src="https://github-stats-extended.vercel.app/api/top-langs/?username=chairass&theme=monokai&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true"/>
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=tiagosangil&theme=monokai&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true"/>
 </p>
 
 ## 📈 Atividade
