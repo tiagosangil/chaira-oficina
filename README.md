@@ -16,7 +16,7 @@ Em constante aprendizado, um commit de cada vez. 💜
 
 <p align="center">
 
-<a href="https://github.com/_chairass?tab=followers">
+<a href="https://github.com/_sangilti?tab=followers">
 <img
 alt="Seguidores"
 src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
