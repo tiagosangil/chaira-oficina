@@ -7,7 +7,7 @@
 ### 💻 Back-End | Banco de Dados | Node.js
 
 <p>
-Em constante aprendizado, um commit de cada vez. 💜
+Em constante aprendizado, um commit de cada vez.
 </p>
 
 </div>
